@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgba(218, 63, 218, 0.959);
+    text-align: center;
+    color: rgb(241, 207, 10);
+    background-image: url("https://e0.pxfuel.com/wallpapers/230/508/desktop-wallpaper-blackjack-casino-game-thumbnail.jpg");
+    background-size: cover;
+}
+p{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+button{
+    width:170px;
+    font-weight: bold;
+    color:white;
+    background-color: rgb(71, 229, 76);
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.display{
+    font-size: 25px;
+    color: beige
+}
